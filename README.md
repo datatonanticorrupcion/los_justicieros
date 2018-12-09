@@ -25,7 +25,10 @@ La información se depuró con SQL Server de Microsoft y se creo un Dashboard co
 URL del Dashboard: http://bit.ly/dashboard_proveedores_sancionados
 
 
+## Filtro por Dependencia:
 
 ![](powerbi_hoja_01.jpg)
+
+## Filtro por Año:
       
 ![](powerbi_hoja_02.jpg)	  
