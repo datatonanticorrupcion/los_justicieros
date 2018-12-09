@@ -26,6 +26,6 @@ URL del Dashboard: http://bit.ly/dashboard_proveedores_sancionados
 
 
 
-![](los_justicieros/powerbi_hoja_01.jpg)
+![](powerbi_hoja_01.jpg)
       
-![](los_justicieros/powerbi_hoja_02.jpg)	  
+![](powerbi_hoja_02.jpg)	  
