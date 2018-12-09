@@ -24,3 +24,8 @@ La información se depuró con SQL Server de Microsoft y se creo un Dashboard co
 
 URL del Dashboard: http://bit.ly/dashboard_proveedores_sancionados
 
+
+
+![](los_justicieros/powerbi_hoja_01.jpg)
+      
+![](los_justicieros/powerbi_hoja_02.jpg)	  
